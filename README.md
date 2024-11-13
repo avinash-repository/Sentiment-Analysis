@@ -14,4 +14,4 @@ This project analyzes customer sentiment for products by web scraping reviews, p
 
 
 Power BI Visualization
-./sentiment.png
+![Sentiment Analysis](sentiment.png)
