@@ -13,3 +13,5 @@ This project analyzes customer sentiment for products by web scraping reviews, p
 4. Visualization: Created Power BI visuals to analyze trends in sentiment over time.
 
 
+Power BI Visualization
+./sentiment.png
